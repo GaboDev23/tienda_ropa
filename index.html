@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tienda de Ropa</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Tienda de Ropa Gabriel</h1>
+    </header>
+
+    <main class="container">
+        <div class="product-card">
+            <img src="https://via.placeholder.com/300x220?text=Remera+Negra" alt="Remera Negra">
+            <h3>Remera Negra</h3>
+            <p>$500</p>
+            <button class="btn" onclick="addToCart('Remera Negra', 500)">Agregar al carrito</button>
+        </div>
+
+        <div class="product-card">
+            <img src="https://via.placeholder.com/300x220?text=Pantalón+Jean" alt="Pantalón Jean">
+            <h3>Pantalón Jean</h3>
+            <p>$1200</p>
+            <button class="btn" onclick="addToCart('Pantalón Jean', 1200)">Agregar al carrito</button>
+        </div>
+
+        <div class="product-card">
+            <img src="https://via.placeholder.com/300x220?text=Campera" alt="Campera">
+            <h3>Campera</h3>
+            <p>$2500</p>
+            <button class="btn" onclick="addToCart('Campera', 2500)">Agregar al carrito</button>
+        </div>
+    </main>
+
+    <script>
+        function addToCart(nombre, precio) {
+            alert(`Agregaste "${nombre}" al carrito. Precio: $${precio}`);
+        }
+    </script>
+
+</body>
+</htm

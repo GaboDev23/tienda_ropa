@@ -42,7 +42,7 @@ Este proyecto es una base sobre la cual se pueden agregar muchas funciones, como
 
 ## Autor
 
-Desarrollado por **Gabriel** con asistencia de ChatGPT.  
+Desarrollado por **Gabriel**.  
 Proyecto educativo y de emprendimiento personal.
 
 ---

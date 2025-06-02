@@ -1,6 +1,6 @@
-# Tienda Online de Ropa – Gabriel
+# Tienda Online de Ferretería – Gabriel
 
-Este es un proyecto básico de tienda online de ropa desarrollado con **HTML, CSS y JavaScript puro**, sin frameworks ni librerías externas. Es ideal como punto de partida para aprender desarrollo web o comenzar un pequeño emprendimiento de ventas.
+Este es un proyecto básico de tienda online de Ferretería desarrollado con **HTML, CSS y JavaScript puro**, sin frameworks ni librerías externas. Es ideal como punto de partida para aprender desarrollo web o comenzar un pequeño emprendimiento de ventas.
 
 ---
 
@@ -61,7 +61,3 @@ Desarrollado por **Gabriel**.
 Proyecto educativo y personal con fines de aprendizaje y emprendimiento.
 
 ---
-
-## Licencia
-
-Este proyecto es de uso **libre y educativo**. Podés copiar, modificar y compartir el código con fines personales o comerciales.

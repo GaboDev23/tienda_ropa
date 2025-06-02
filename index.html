@@ -1,14 +1,26 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Tienda de Ropa</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ferreteria</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
-    <header>
-        <h1>Tienda de Ropa Gabriel</h1>
+<body id="inicio">
+    <header class="header" role="banner">
+        <nav class="nav-menu" role="navigation" aria-label="Menú principal">
+            <a href="#productos">Productos</a>
+        </nav>
+
+        <h1 class="logo">
+            <a href="#" title="Volver al inicio" aria-label="Volver al inicio - Ferretería CAL">🔧 <span>Ferretería Carlos A. Lopez</span></a>
+        </h1>
+
+        <div class="nav-icons" role="group" aria-label="Acciones rápidas">
+            <a href="#buscar" title="Buscar" aria-label="Buscar">
+🔍<span class="sr-only">Buscar</span></a>
+            <a href="#carrito" title="Carrito de compras" aria-label="Carrito de compras">🛒<span class="sr-only">Carrito</span></a>
+        </div>
     </header>
 
     <main class="container">
